@@ -22,7 +22,7 @@ The final year project presented here is a composition of several results of whi
 - Victor Croisfelt Rodrigues, José Carlos Marinello Filho, and Taufik Abrão, "[Exponential Spatial Correlation with Large-Scale Fading Variations in Massive MIMO Channel Estimation](https://doi.org/10.1002/ett.3563)", Transactions on Emerging Telecommunications, 2019;e3563. "[Code available here](https://github.com/victorcroisfelt/exp-lsf-spatial-corr-mmimo-chn-est)". 
 - Victor Croisfelt Rodrigues, José Carlos Marinello Filho, and Taufik Abrão, "Kaczmarz Precoding and Detection for Massive MIMO Systems", presented at IEEE Wireless Communications and Networking Conference (IEEE WCNC), Marrakech, Morocco on April 16, 2019. Publication is expected soon.
 
-**About the code:** The codes provided herein can be used to simulate the Figs. 1 to 4 contained in the technical report; this is done by running the scripts that have "simulation" in their names, while those with "function" in their names are called by the main scripts. Further details about each file can be found inside them.
+**About the code:** The codes provided herein can be used to simulate the Figs. 1 to 4 contained in the technical report (Appendix A of the FYP); this is done by running the scripts that have "simulation" in their names, while those with "function" in their names are called by the main scripts. Further details about each file can be found inside them.
 
 ## Citing this Repository and License
 This code is licensed under the GPLv3 license. If you use any part of this repository for research, please consider to cite the FYP as:
