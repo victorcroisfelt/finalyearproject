@@ -4,7 +4,7 @@ This repository includes the PDF of the following final year project (FYP):
 
 Victor Croisfelt Rodrigues, "Spatial Correlation and Low Complexity Signal Processing Techniques in Massive MIMO Systems", Final Year Project, Universidade Estadual de Londrina, Londrina, Brazil, December, 2018.
 
-**Code:** This repository also has a research-oriented code package, located at the "matlab" folder, that allow readers to replicate the results of the technical report appended in Appendix A of the above FYP, entlited as:
+**Code:** This repository also has a research-oriented code package, located in the "matlab" folder, that allow readers to replicate the results of the technical report appended in Appendix A of the above FYP, entlited as:
 
 Victor Croisfelt Rodrigues and Taufik Abrão, "Massive MIMO System in TDD Mode: Channel Estimation and Spectral Efficiency", Technical report, Universidade Estadual de Londrina, Londrina, Brazil, December, 2018.
 
