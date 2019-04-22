@@ -6,7 +6,7 @@ Victor Croisfelt Rodrigues, "Spatial Correlation and Low Complexity Signal Proce
 
 **Code:** This repository also has a research-oriented code package, located in the "matlab" folder, that allow readers to replicate the results of the technical report appended in Appendix A of the above FYP, entlited as:
 
-Victor Croisfelt Rodrigues and Taufik Abrão, "Massive MIMO System in TDD Mode: Channel Estimation and Spectral Efficiency", Technical report, Universidade Estadual de Londrina, Londrina, Brazil, December, 2018.
+Victor Croisfelt Rodrigues and Taufik Abrão, "Massive MIMO System in TDD Mode: Channel Estimation and Spectral Efficiency", Technical Report, Universidade Estadual de Londrina, Londrina, Brazil, December, 2018.
 
 I hope this content helps in your reaseach and contributes to building the precepts behind open science. Remarkably, in order to boost the idea of open science and further drive the evolution of science, we also motivate you to share your published results to the public.
 
