@@ -25,7 +25,9 @@ The final year project presented here is a composition of several results of whi
 **About the code:** The codes provided herein can be used to simulate the Figs. 1 to 4 contained in the technical report (Appendix A of the FYP); this is done by running the scripts that have "simulation" in their names, while those with "function" in their names are called by the main scripts. Further details about each file can be found inside them.
 
 ## Citing this Repository and License
-The final year report and the code are subject to the GPLv3 license. If you use any part of this repository for research, please consider to cite the FYP as:
+The final year report is subject to the Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)), while the code is subject to the GPLv3 license. 
+
+If you use any part of this repository for research, please consider to cite the FYP as:
 
 Victor Croisfelt Rodrigues, "Spatial Correlation and Low Complexity Signal Processing Techniques in Massive MIMO Systems", Final Year Project, Universidade Estadual de Londrina, Londrina, Brazil, December, 2018.
 
