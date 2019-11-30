@@ -18,7 +18,7 @@ One of the most promising technologies to match the current society requirements
 ## FYP Content
 The final year project presented here is a composition of several results of which some of them have been published in the form of articles, we can cite the following:
 
-- Victor Croisfelt Rodrigues and Taufik Abrão, "[An Evaluation of Successive Pilot Decontamination in Massive MIMO](http://www.uel.br/revistas/uel/index.php/semexatas/article/view/34450/24955)", Semina: Ciências Exatas e Tecnológicas, Londrina, Brazil, v. 39, n. 2, ago./dez. 2018. "[Code available here](https://github.com/victorcroisfelt/eval-suc-pilot-decon-mmimo)"   
+- Victor Croisfelt Rodrigues and Taufik Abrão, "[An Evaluation of Successive Pilot Decontamination in Massive MIMO](http://www.uel.br/revistas/uel/index.php/semexatas/article/view/34450/24955)", Semina: Ciências Exatas e Tecnológicas, Londrina, Brazil, v. 39, n. 2, ago./dez. 2018. "[Code available here](https://github.com/victorcroisfelt/eval-suc-pilot-decon-mmimo)".  
 - Victor Croisfelt Rodrigues, José Carlos Marinello Filho, and Taufik Abrão, "[Exponential Spatial Correlation with Large-Scale Fading Variations in Massive MIMO Channel Estimation](https://doi.org/10.1002/ett.3563)", Transactions on Emerging Telecommunications, 2019;e3563. "[Code available here](https://github.com/victorcroisfelt/exp-lsf-spatial-corr-mmimo-chn-est)". 
 - Victor Croisfelt Rodrigues, José Carlos Marinello Filho, and Taufik Abrão, "Kaczmarz Precoding and Detection for Massive MIMO Systems", presented at IEEE Wireless Communications and Networking Conference (IEEE WCNC), Marrakech, Morocco on April 16, 2019. Publication is expected soon. "[Code available here](https://github.com/victorcroisfelt/rand-kaczmarz-alg-for-mmimo)".
 
